@@ -10,5 +10,6 @@ Garder uniquement :
 - .zip avec données et script
 - fichiers .csl, .bib et .yml
 
-résultat web satisfaisant.
+Résultat web satisfaisant. cf [https://beauguitte.github.io/test_minimal_notebook/](https://beauguitte.github.io/test_minimal_notebook/)
 
+A voir : regrouper images dans un même dossier
